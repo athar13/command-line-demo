@@ -1,0 +1,8 @@
+# Visual Studio directory
+.vs/
+[Dd]ebug/
+[Oo]bj/
+[Pp]roperties/
+
+# git directory
+.git/
